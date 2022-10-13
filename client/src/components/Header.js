@@ -1,4 +1,4 @@
-import { 
+import {
   Logo,
   Words,
   Header as ArwesHeader,

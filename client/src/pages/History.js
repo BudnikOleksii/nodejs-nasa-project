@@ -43,5 +43,5 @@ const History = props => {
     </Appear>
   </article>;
 }
-  
+
 export default History;
